@@ -58,7 +58,7 @@ export default function App() {
       </section>
 
       {/* Motor Types Section - Introduction */}
-      <section className="py-16 bg-[#12121A]">
+      {/*<section className="py-16 bg-[#12121A]">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-12">
             <h2 className="text-5xl font-bold text-slate-100 mb-6">أنواع المحركات الكهربائية</h2>
@@ -67,7 +67,7 @@ export default function App() {
             </p>
           </div>
         </div>
-      </section>
+      </section>*/}
 
       {/* AC Motors Section */}
       <section className="py-16 bg-[#0A0A0F]">
